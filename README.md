@@ -1,5 +1,5 @@
 # Kauan Ramos Fontana
-### Olá, sou Técnico em Informática para a Internet, estudante de Análise de desenvolvimento de Sistemas, também estudo paralelamente, com o objetivo de me tornar um desenvolvedor FullStack.
+### Olá, sou Desenvolvedor Front-End Angular, Técnico em Informática para a Internet, estudante de Análise de desenvolvimento de Sistemas e também estudo paralelamente, com o objetivo de me tornar um desenvolvedor FullStack.
 
 ## Conhecimentos
 
