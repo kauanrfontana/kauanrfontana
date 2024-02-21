@@ -9,6 +9,7 @@
 
 ![JS](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=JavaScript)![TS](https://img.shields.io/badge/TS-000?style=for-the-badge&logo=TypeScript)
 
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)
 
 
 ![ANGULAR](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=Angular&logoColor=d6002f)
