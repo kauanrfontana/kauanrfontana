@@ -1,5 +1,6 @@
 # Kauan Ramos Fontana
-### Hello, I'm Kauan Ramos Fontana, a Computer Technician specialized in Web Development and a Systems Analysis and Development undergraduate. Currently, I work as a Front-End Developer with Angular.
+> 🇧🇷 [Versão em Português](README.pt.md)
+### Hello, I'm Kauan Ramos Fontana, a Computer Technician specialized in Web Development and a Systems Analysis and Development undergraduate. Currently, I work as a Mid-level Full Stack Developer.
 ### Beyond technical skills, I am a deeply curious person, passionate about new technologies. I thrive on constantly learning, whether from colleagues, in school, or independently. I discovered my calling in programming because I enjoy using logic to solve complex problems with simple and innovative solutions.
 
 ## Skills and Knowledge:
