@@ -7,7 +7,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=0091d5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS&logoColor=0091d5)
 
 ![JS](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=JavaScript)![TS](https://img.shields.io/badge/TS-000?style=for-the-badge&logo=TypeScript)
 
@@ -15,6 +15,7 @@
 
 
 ![ANGULAR](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=Angular&logoColor=d6002f)
+![NESTJS](https://img.shields.io/badge/Nest-000?style=for-the-badge&logo=NestJS&logoColor=d6002f)
 
 ![GIT](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git) ![GITHUB](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
 
